@@ -1,0 +1,42 @@
+{
+  "businessName": "Bella Glam's Empire",
+  "industry": "Fashion and Creative Design",
+  "tone": "elegant and aspirational",
+  "tagline": "Where Style Meets Sophistication",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Welcome to Bella Glam's Empire – your destination for exquisite fashion and creative designs in Eket. We transform your style vision into reality with bespoke outfits, expert tailoring, and fashion-forward designs that make you stand out. From elegant traditional attire to contemporary fashion pieces, we create garments that celebrate your unique beauty and confidence.",
+      "imagePrompt": "Luxurious Nigerian fashion boutique interior with elegant fabrics draped artistically, golden lighting, rich purple and gold color scheme, modern African aesthetic, high-end fashion displays, sophisticated ambiance, shallow depth of field, professional photography style",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Bella Glam's Empire is Eket's premier fashion and creative design studio, dedicated to bringing your style dreams to life. We specialize in custom fashion design, expert tailoring, and creative styling that reflects the elegance and diversity of modern Nigerian women. Our commitment is to deliver exceptional quality, impeccable fit, and designs that enhance your natural beauty. Whether you need traditional attire for special occasions or contemporary pieces for everyday sophistication, we blend creativity with craftsmanship to ensure you look and feel absolutely stunning.",
+      "imagePrompt": "Professional Nigerian fashion designer working with colorful African fabrics, measuring tape around neck, sketching designs, bright natural light streaming through windows, vibrant ankara and lace materials displayed, creative studio setting in Eket, warm and inviting atmosphere",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "**Custom Fashion Design** – Bespoke outfits tailored to your exact measurements and style preferences, from concept to creation.\n\n**Expert Tailoring & Alterations** – Professional fitting and alterations to ensure your garments fit perfectly and flatter your silhouette.\n\n**Traditional Attire** – Stunning traditional Nigerian outfits for weddings, ceremonies, and cultural celebrations, crafted with authentic fabrics and intricate details.\n\n**Contemporary Fashion** – Modern, trendy pieces for work, casual outings, and special events that keep you ahead of the style curve.\n\n**Bridal & Special Occasion Wear** – Elegant wedding dresses, bridesmaid gowns, and outfits for milestone celebrations.\n\n**Fashion Consultation** – Personal styling advice to help you discover looks that complement your body type, personality, and lifestyle.",
+      "imagePrompt": "Elegant display of various Nigerian fashion pieces on mannequins, including traditional aso-ebi, contemporary African print dresses, bridal gowns, and tailored outfits, professional boutique lighting, rich textures visible, sophisticated presentation, shallow focus on detailed embroidery",
+      "layout": "grid"
+    },
+    {
+      "id": "contact",
+      "name": "Get In Touch",
+      "copy": "Ready to elevate your style? Visit Bella Glam's Empire in Mkpok village, Eket, or reach out to us today. We're excited to bring your fashion vision to life with designs that celebrate your unique elegance. Call us for consultations, fittings, or to discuss your next stunning outfit. Your transformation starts here!",
+      "imagePrompt": "Welcoming Nigerian fashion boutique storefront in Eket, warm golden hour lighting, inviting entrance with elegant signage, traditional and modern architectural elements, friendly atmosphere, customers visible through windows, professional commercial photography",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "09030443792",
+    "email": "",
+    "address": "Mkpok Village, Eket, Nigeria",
+    "whatsapp": "https://wa.me/2349030443792"
+  }
+}
